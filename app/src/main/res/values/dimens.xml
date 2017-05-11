@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Standards dimentions. -->
+    <dimen name="standard_1.5">1.5dp</dimen>
+    <dimen name="standard_5">5dp</dimen>
+    <dimen name="standard_8">8dp</dimen>
+    <dimen name="standard_10">10dp</dimen>
+    <dimen name="standard_50">50dp</dimen>
+</resources>

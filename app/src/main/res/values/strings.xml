@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Auto Slide Viewpager</string>
+
+    <!--array of image resource to display image over banner viewpager-->
+    <integer-array name="banner_img_array">
+        <item>@drawable/wall_one</item>
+        <item>@drawable/wall_two</item>
+        <item>@drawable/wall_three</item>
+        <item>@drawable/wall_four</item>
+        <!--        <item>@drawable/wall_one</item>
+                <item>@drawable/wall_two</item>
+                <item>@drawable/wall_three</item>-->
+    </integer-array>
+</resources>
